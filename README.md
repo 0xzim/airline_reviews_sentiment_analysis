@@ -8,6 +8,12 @@ This project involves collecting and analyzing british airline review data from 
 * Clean and transform the raw HTML data into structured analyzable format.
 * Apply natural language processing (NLP) techniques to analyze sentiment using the VADER sentiment analyzer.
 
+### Data Collection
+Scraped airline reviews from the Skytrax website using BeautifulSoup.
+
+Focused exclusively on reviews about british airways airlines, not airports or lounges.
+
+Extracted various elements such as title, author, review content, different kind of rating, and recommendation status.
 
 ### Tools and Libraries
 * Python

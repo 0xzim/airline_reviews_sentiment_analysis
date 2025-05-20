@@ -41,4 +41,4 @@ Out of 2,413 reviews:
 
 * ⚪ Neutral: 36 reviews (1.49%)
 
-**Insight**: The majority of airline reviews were polarized either strongly positive or negative with very few neutral responses.
+**Insight**: The majority of airline reviews were polarized either strongly positive or negative with very few neutral responses. Additionally, the averages of the ratings are within 3 out of 5 stars which shwos there is a major room for improvement on all areas.
